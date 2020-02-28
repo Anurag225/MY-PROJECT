@@ -1,0 +1,53 @@
+*{
+    margin:0; 
+    padding:0;
+    box-sizing:content-box;
+
+}
+section{
+    background-color: teal;
+    color:#fff;
+}
+h2{
+    text-align: center;
+    padding: 20px 0px;
+}
+.content{
+    width:600px;
+    height:500px;
+    margin:auto;
+    background-color: #10100f;
+    
+}
+label{
+    font-size: 18px;
+    font-weight: 500;
+}
+#bitcoin_value{
+    width:250px;
+    overflow:hidden;
+    height: 30px;
+    border-radius: 5px;
+}
+button{
+    background-color: blue;
+    color: cornsilk;
+    width:100px;
+    height:40px;
+    margin-top: 15px;
+}
+.button_click{
+    margin:auto;
+    width:300px;
+    height:auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#graph_display{
+    width:500px;
+    height:300px;
+    margin:auto;
+    background-color: rgba(255, 255, 255, 0.397);
+    padding-bottom: 20px;
+}
